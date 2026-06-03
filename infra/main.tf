@@ -89,7 +89,7 @@ resource "aws_instance" "web_public" {
   vpc_security_group_ids      = [aws_security_group.allow_web.id]
   key_name                    = "jenkins"
   tags = {
-    Name = "apache2-terraform-Public-Instance"
+    Name = "apache2-static-website-Public-Instance"
   }
 }
 
