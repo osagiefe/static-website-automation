@@ -4,6 +4,7 @@
 Given a Github repository of a static website, I will be automating the deployment of this website in AWS Cloud. Using Terraform, deploy AWS infrastructure with apache webserver. Finally, deploy website within running apache webserver default webfolder (/var/www/html)
 
 # AWS Architecture Diagram
+<img width="967" height="580" alt="Image" src="https://github.com/user-attachments/assets/a6ad0102-29ea-4f9d-9617-e210d6f43268" />
 
 # Tools
   - Terraform
